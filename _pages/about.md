@@ -1,6 +1,6 @@
 ---
 title: About Shui
-subtitle: Shui is currently a graduate student in University of Southern California, pursuing a Master degree in Business Analytics. With former background of mathematics and statistics, she also have a great passion for art and design.
+subtitle: Shui is currently a graduate student in University of Southern California, pursuing a Master degree in Business Analytics. With solid background of mathematics and statistics, she also have a great passion for art and design.
 description: 
 featured_image: /images/demo/demo-landscape.jpg
 ---
