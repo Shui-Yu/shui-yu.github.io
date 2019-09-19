@@ -63,10 +63,10 @@ social_settings:
 color_settings: # refer to https://htmlcolorcodes.com/ for more html colors
   background_color: '#ffffff' # white
   background_alt_color: '#f4f5f6' # light grey
-  text_dark_color: '#2A2F36'. # dark grey
+  text_dark_color: '#2A2F36' # dark grey
   text_medium_color: '#6C7A89' # medium grey
   text_light_color: '#ABB7B7' # light green grey
-  accent_color: '#A592C8'. # # original: orangef2784b
+  accent_color: '#A592C8' # original: orangef2784b
   border_color: '#dddddd' # grey
   overlay_background_color: '#A592C8'  # original: orangef2784b
   overlay_text_color: '#ffffff' # white
